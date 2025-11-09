@@ -52,6 +52,9 @@ Atualmente, estou trabalhando em um sistema completo de gerenciamento de documen
 ![Status](https://img.shields.io/badge/Status-Em_Produ%C3%A7%C3%A3o-success?style=flat)
 ![Commits](https://img.shields.io/badge/Commits-223-blue?style=flat)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-zedcot%2Fappagenda-181717?style=flat&logo=github)](https://github.com/zedcot/appagenda)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fappagendas.com&style=flat&label=Website)
+
 </div>
 
 **Plataforma completa de gestão empresarial** com CRM inteligente, Machine Learning e automação para estabelecimentos de serviços. Sistema multi-tenant que atende 12+ segmentos (salões, clínicas, academias, consultorias, etc.).
@@ -185,6 +188,16 @@ Prova de conceito de sistema de busca de voos desenvolvido em Java 8 puro. Este 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zedcot&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=1800&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zedcot&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+#### 📌 Repositórios em Destaque
+
+<div align="center">
+
+[![AppAgenda Repo](https://github-readme-stats.vercel.app/api/pin/?username=zedcot&repo=appagenda&theme=tokyonight&hide_border=false&show_owner=true)](https://github.com/zedcot/appagenda)
+
+[![Bot Insanity Repo](https://github-readme-stats.vercel.app/api/pin/?username=zedcot&repo=bot-insanity&theme=tokyonight&hide_border=false&show_owner=true)](https://github.com/zedcot/bot-insanity)
 
 </div>
 
