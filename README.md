@@ -51,9 +51,8 @@ Atualmente, estou trabalhando em um sistema completo de gerenciamento de documen
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em_Produ%C3%A7%C3%A3o-success?style=flat)
 ![Commits](https://img.shields.io/badge/Commits-223-blue?style=flat)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-zedcot%2Fappagenda-181717?style=flat&logo=github)](https://github.com/zedcot/appagenda)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fappagendas.com&style=flat&label=Website)
+![Repository](https://img.shields.io/badge/Reposit%C3%B3rio-Privado-red?style=flat&logo=github)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fappagendas.com&style=flat&label=Website&up_message=Online&down_message=Offline)](https://appagendas.com)
 
 </div>
 
@@ -191,15 +190,17 @@ Prova de conceito de sistema de busca de voos desenvolvido em Java 8 puro. Este 
 
 </div>
 
-#### 📌 Repositórios em Destaque
+#### 📌 Repositórios Públicos
 
 <div align="center">
 
-[![AppAgenda Repo](https://github-readme-stats.vercel.app/api/pin/?username=zedcot&repo=appagenda&theme=tokyonight&hide_border=false&show_owner=true)](https://github.com/zedcot/appagenda)
-
 [![Bot Insanity Repo](https://github-readme-stats.vercel.app/api/pin/?username=zedcot&repo=bot-insanity&theme=tokyonight&hide_border=false&show_owner=true)](https://github.com/zedcot/bot-insanity)
 
+[![PabloZed Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=zedcot&repo=pablozed&theme=tokyonight&hide_border=false&show_owner=true)](https://github.com/zedcot/pablozed)
+
 </div>
+
+> 💼 **Nota:** O repositório AppAgenda é privado. Estatísticas do projeto estão descritas na seção "Projetos em Destaque" acima.
 
 ### 🏆 Conquistas
 
