@@ -164,13 +164,35 @@ Prova de conceito de sistema de busca de voos desenvolvido em Java 8 puro. Este 
 
 ## 📊 Estatísticas do GitHub
 
+### 📈 Perfil PabloZed
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloZed&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloZed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZed&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZed&layout=compact&theme=radical&langs_count=10&hide_border=false&cache_seconds=1800&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloZed&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloZed&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+### 🚀 Perfil zedcot (Projetos Profissionais)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedcot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zedcot&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=1800&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zedcot&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+### 🏆 Conquistas
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PabloZed&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
